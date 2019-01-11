@@ -15,3 +15,5 @@ wo shi fenzhi a
 Creating a new branch is quick and simple
 
 commit
+
+Git is a free software ..
